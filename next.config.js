@@ -53,6 +53,7 @@ const securityHeaders = [
 ]
 
 module.exports = withBundleAnalyzer({
+  basePath: '/',
   output: 'export',
   trailingSlash: true,
   images: {
