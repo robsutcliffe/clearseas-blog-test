@@ -57,7 +57,7 @@ module.exports = withBundleAnalyzer({
   trailingSlash: true,
   images: {
     loader: 'akamai',
-    path: '',
+    path: '/',
   },
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
