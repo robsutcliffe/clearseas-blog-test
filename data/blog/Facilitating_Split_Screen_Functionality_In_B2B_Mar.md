@@ -1,0 +1,11 @@
+---
+title: Facilitating Split Screen Functionality In B2B Market Research Dashboard
+date: 'April 1, 2023'
+tags: ['dashboards', 'Market Research', 'market research data']
+draft: false
+summary: 'Facilitating Split Screen Functionality In B2B Market Research Dashboard'
+---
+
+# Facilitating Split Screen Functionality In B2B Market Research Dashboard
+
+We are excited to announce the latest update to our market research dashboard now allows for split-screen comparison of two plots simultaneously. This new feature is designed to provide an even more comprehensive and efficient way for our users to analyze market research data.With the new split-screen comparison feature, users can view two plots side-by-side, making it easier to compare trends, identify patterns, and draw insights. This allows for more detailed and nuanced data analysis, leading to more accurate conclusions and better-informed decisions.Here are some of the benefits of the split-screen comparison feature:Enhanced analysis: Comparing two plots side-by-side makes it easier to identify trends and patterns.Time-saving: Users can analyze two data sets simultaneously, making the process more efficient.Improved accuracy: Viewing two plots simultaneously allows for a complete understanding of the data.Better communication: The feature can clearly illustrate differences between two data sets, improving communication.Increased flexibility: Users can customize which plots are shown side-by-side, allowing for a more personalized approach.Email feature: Users can easily share findings, streamlining collaboration and communication.Filter Separation: Users can view two plots simultaneously with different filters, enabling granular data analysis and facilitating comparison of the different results based on different audiences.At Clear Seas Research, we are committed to providing users with the most up-to-date and practical tools to analyze market research data. The split-screen comparison feature is just one example of how we constantly strive to improve our platform and help our users make better-informed decisions. We are confident that this new feature will be a valuable addition to our market research dashboard, and we encourage our users to explore its capabilities.

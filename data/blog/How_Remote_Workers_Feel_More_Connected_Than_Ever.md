@@ -1,0 +1,11 @@
+---
+title: How Remote Workers Feel More Connected Than Ever
+date: 'June 1, 2022'
+tags: []
+draft: false
+summary: 'How Remote Workers Feel More Connected Than Ever'
+---
+
+# How Remote Workers Feel More Connected Than Ever
+
+Recently released research indicates that remote workers feel the most “connected” compared to on-site staff and hybrid staff.   “People who work on-site, in comparison with those who work in hybrid or remote workplaces, feel the least connected of the three groups studied — 42% of on-site workers say they feel “not connected” versus 36% hybrid and 22% fully remote.”  (Accenture, 2022) This research would indicate that remote workers will drive the future of workplace engagement.  This represents exciting opportunities for professionals who want to work remotely. It should also entice leaders to further engage in new models for how to better position themselves in a remote-driven business world.To gain the edge in the remote-driven workplace, leaders must cultivate and grow skillsets that translate digitally across distances and time zones.  Research proves successful leaders build a culture where the remote workers feel engaged and connected, despite their non-physical presence every day.  To truly excel, leaders must rely on non-verbal cues to understand when and if their staff begins to feel disconnected, either through messaging, emails, or over video conferencing.  Further research reveals another surprising workplace fact, onsite workers often “go through the motions” to appear productive and engaged. Remote workers do not feel this same pressure to “appear engaged.”Research from Owl Labs has “found that remote and hybrid employees were 22% happier than workers in an onsite office environment and stayed in their jobs longer. Plus, remote workers had less stress, more focus and were more productive than when they toiled in the office.” (Owl Labs, 2021) This surprising insight should prompt all leaders to ask themselves, do my on-site staff feel pressured to appear productive? How can I foster a culture where my remote working staff can feel the benefits of connection while allowing them to continue to manage their day without the distraction of pretending to be “engaged?”
