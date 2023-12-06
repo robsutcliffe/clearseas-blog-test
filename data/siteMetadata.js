@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'Firefields Blog',
+  title: 'Clearseas Research',
   author: 'Rob Sutcliffe',
-  headerTitle: 'Firefields Blog',
+  headerTitle: 'Clearseas Research',
   description: 'Notes on data vis, developement and making UIs',
   language: 'en-us',
   theme: 'system', // system, dark or light
