@@ -14,6 +14,17 @@ const ContentSecurityPolicy = `
   frame-src giscus.app
 `
 
+const isGithubActions = process.env.GITHUB_ACTIONS || false
+
+let assetPrefix = ''
+let basePath = '/'
+if (isGithubActions) {
+  const repo = process.env.GITHUB_REPOSITORY.replace(/.*?\//, '')
+
+  assetPrefix = `/${repo}/`
+  basePath = `/${repo}`
+}
+
 const securityHeaders = [
   // https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP
   {
@@ -54,6 +65,8 @@ const securityHeaders = [
 
 module.exports = withBundleAnalyzer({
   output: 'export',
+  assetPrefix: assetPrefix,
+  basePath: basePath,
   images: {
     loader: 'akamai',
     path: '/',
