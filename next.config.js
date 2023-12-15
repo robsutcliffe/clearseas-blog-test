@@ -15,6 +15,7 @@ const ContentSecurityPolicy = `
 `
 
 const isGithubActions = process.env.GITHUB_ACTIONS || false
+const isVercel = process.env.VERCEL || false
 
 let assetPrefix = ''
 let basePath = '/'
@@ -23,6 +24,11 @@ if (isGithubActions) {
 
   assetPrefix = `/${repo}/`
   basePath = `/${repo}`
+}
+
+if (isVercel) {
+  assetPrefix = ''
+  basePath = ''
 }
 
 const securityHeaders = [
