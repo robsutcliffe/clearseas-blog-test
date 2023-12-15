@@ -69,7 +69,7 @@ module.exports = withBundleAnalyzer({
   basePath: basePath,
   images: {
     loader: 'akamai',
-    path: '/',
+    path: assetPrefix,
   },
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
